@@ -42,4 +42,30 @@ Example:
 
 ## How to Run
 
-Install OpenCV:
+Install OpenCV & Run the script. Enter the desired percentage when prompted.
+
+---
+
+## Learning Outcome
+
+While building this project, I practiced:
+
+- Reading and writing images using OpenCV
+- Understanding image dimensions and scaling
+- Performing basic image processing operations
+- Handling user input in Python
+
+---
+
+## Future Improvements
+
+- Add input validation
+- Allow user to choose image file dynamically
+- Add GUI interface
+- Support batch resizing
+
+---
+
+## Author
+
+ANIRUDDHA BHATTACHARYYA
